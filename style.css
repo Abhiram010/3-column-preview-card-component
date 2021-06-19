@@ -23,7 +23,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  height: 480px;
+  height: 450px;
 }
 .svg_and_head {
   display: flex;
